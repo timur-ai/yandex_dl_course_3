@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# Allow only these files at repo root
+!.gitignore
+!.python-version
+!/pyproject.toml
+!/README.md
+!/solution.ipynb
